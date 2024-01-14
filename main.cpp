@@ -105,13 +105,13 @@ baby.crawl();
 baby.spitUp();
 
 //  7)
-//  Noun: boss
-//  action 1: The boss hires
-boss.hire();
-//  action 2: the boss fires
-boss.fire();
-//  action 3: the boss sleeps
-boss.sleep();
+//  Noun: officeManager
+//  action 1: The officeManager hires a new employee
+officeManager.hireNewEmployee();
+//  action 2: the officeManager fires
+officeManager.fire();
+//  action 3: the officeManager sleeps
+officeManager.sleep();
 
 //  8)
 //  Noun: baker
