@@ -108,10 +108,10 @@ baby.spitUp();
 //  Noun: officeManager
 //  action 1: The officeManager hires a new employee
 officeManager.hireNewEmployee();
-//  action 2: the officeManager fires
-officeManager.fire();
-//  action 3: the officeManager sleeps
-officeManager.sleep();
+//  action 2: the officeManager fires their assistant
+officeManager.fireAssistant();
+//  action 3: the officeManager sleeps in their office
+officeManager.sleepInOffice();
 
 //  8)
 //  Noun: baker
